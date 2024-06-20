@@ -1,0 +1,9 @@
+Curso em vídeo - javascript
+Professor: Gustavo Guanabara
+
+gmail: anacarolin...
+s: progr#js233
+
+Alguns exemplos são meus e outros do professor
+
+Nos exercícios fui me baseando no código do professor
